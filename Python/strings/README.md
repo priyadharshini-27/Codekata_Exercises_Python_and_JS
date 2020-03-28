@@ -1,1 +1,1 @@
-STRINGS
+String Exercises in Python
