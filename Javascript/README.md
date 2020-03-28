@@ -1,1 +1,1 @@
-CODEKATA's JAVASCRIPT EXERCISES
+Codekata's_Javascript_Exercises
