@@ -1,1 +1,1 @@
-Codekata_guvi Exercises
+Guvi's Codekata Exercises
