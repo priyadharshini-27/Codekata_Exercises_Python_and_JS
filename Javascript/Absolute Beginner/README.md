@@ -1,1 +1,1 @@
-Beginner_Exercises_in_JS
+Beginner_Exercises_in_JavaScript
