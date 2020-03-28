@@ -1,1 +1,1 @@
-CODEKATA's PYTHON EXERCISES
+Codekata's-Python-Exercises
