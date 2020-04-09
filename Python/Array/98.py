@@ -1,7 +1,7 @@
 '''
 Given a number N, print the even factors of N.
 If the even factor does not exists for N print '-1'.
-Input Size : 1 <= N <= 1000
+Input Size : 1 <= N <=1000
 Sample Testcase :
 INPUT
 8
